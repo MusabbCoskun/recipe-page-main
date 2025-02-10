@@ -21,13 +21,13 @@ body{
 main{
     background-color: white;
     border-radius: 20px;
-    width: 600px;
+    width: 700px;
     margin-top: 50px;
     padding: 40px;
 }
 
 img{
-    max-width: 600px;
+    width: 100%;
     border-radius: 10px;
 }
 
@@ -36,12 +36,13 @@ img{
 
 .Preparation{
     background-color: var(--Rose50);
+    margin-top: 20px;
     padding: 5px 10px;
     border-radius: 10px;
 }
 
 .Preparation li{
-    font-size: 14px;
+    font-size: 16px;
     padding: 5px 10px;
 }
 
@@ -67,7 +68,7 @@ img{
 
 .Ingredients li{
     padding:0px 0px 8px 15px;
-    font-size: 14px;
+    font-size: 16px;
    
 }
 
@@ -93,8 +94,8 @@ img{
 }
 
 .Instructions li{
-    padding: 0px 0px 8px 15px;
-    font-size: 15px;
+    padding: 0px 0px 10px 15px;
+    font-size: 16px;
 
 }
 
@@ -144,7 +145,7 @@ td{
 h1{
     font-family: 'Young Serif';
     font-weight: 400;
-    font-size: 25px;
+    font-size: 36px;
 }
 
 
@@ -152,7 +153,7 @@ h2{
     font-family: 'Young Serif';
     font-weight: 400;
     color: var(--Brown800);
-    font-size: 25px;
+    font-size: 28px;
 }
 
 h3{
