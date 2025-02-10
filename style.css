@@ -16,13 +16,14 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 main{
     background-color: white;
     border-radius: 20px;
     width: 700px;
-    margin-top: 50px;
+    margin: 80px 0px;
     padding: 40px;
 }
 
@@ -170,7 +171,7 @@ p, li, table{
 }
 
 .nutparag{
-    font-size: 15px;
+    font-size: 16px;
 }
 
 /* END HEADING AND TEXTS*/
